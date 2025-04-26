@@ -1,11 +1,15 @@
 ![readme](https://github.com/rrecalo/rrecalo/assets/103965989/9cab290e-d769-435d-ba47-89d048c8ebb3)
 
 ## Robert
-I'm a new graduate eagerly seeking a software engineering position, but until I'm hired, I'll be writing creating new software to improve on my skills and hone my workflow.
+IT professional experienced in consulting, architecting, and integrating networking solutions
 
-Check out my pinned repos to see my most recent projects.
+**_CompTIA A+, Network+, and Security certified_** - currently upskilling to become an **_AWS certified solutions architect_**
 
-Want to know more? Contact me at robertrecalo@icloud.com
+As part of my growing interest in technological innovations for the Finance and Banking sector, I am actively enrolled in **KSU's MBA** program specializing in **Financial Technology and Information Security**
+
+Check out my pinned repos to see my most recent projects
+
+Want me on your team? Reach me at contact@robertrecalo.com
 
 <a href="https://github.com/rrecalo">
     <picture>
