@@ -17,8 +17,7 @@ Want me on your team? Reach me at contact@robertrecalo.com
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
     </picture>
 </a>
+
 <a href="https://linkedin.com/in/robertrecalo" style="padding-left:5px">
-    <picture>
-      <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
-    </picture>
+    LinkedIn
 </a>
