@@ -3,9 +3,8 @@
 ## Robert
 IT professional experienced in consulting, architecting, and integrating networking solutions
 
-**_CompTIA A+, Network+, and Security certified_** - currently upskilling to become an **_AWS certified solutions architect_**
-
-As part of my growing interest in technological innovations for the Finance and Banking sector, I am actively enrolled in **KSU's MBA** program specializing in **Financial Technology and Information Security**
+Current Certifications : 
+**_A+, Network+, Security+, AZ-900_**
 
 Check out my pinned repos to see my most recent projects
 
